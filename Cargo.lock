@@ -80,6 +80,7 @@ version = "0.1.0"
 dependencies = [
  "shiplift 0.3.2 (registry+https://github.com/rust-lang/crates.io-index)",
  "structopt 0.2.14 (registry+https://github.com/rust-lang/crates.io-index)",
+ "termion 1.5.1 (registry+https://github.com/rust-lang/crates.io-index)",
  "tui 0.3.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
